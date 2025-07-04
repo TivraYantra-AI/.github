@@ -1,6 +1,6 @@
 # ⚡️Tivra-Yantra-AI
 
-Welcome to **Tivra-Yantra-AI** — where innovation meets intelligence.
+Welcome to **Tivra-Yantra-AI** — Where the Love of Building Meets the Age of Intelligence.
 >
 > In Sanskrit
 > **"Tivra"** (तीव्र) means *fast*, *sharp*, or *intense*
