@@ -1,4 +1,4 @@
-# ⚡️Tivra-Yantra-AI
+# ⚡️[Tivra-Yantra-AI](https://tivrayantra-ai.github.io/landing-page/)
 
 Welcome to **Tivra-Yantra-AI** — Where the Love of Building Meets the Age of Intelligence.
 >
@@ -16,7 +16,7 @@ Tivra-Yantra-AI is a cutting-edge initiative dedicated to developing impactful a
 
 * ⚙️ Technically advanced
 * 🧠 Intelligently designed
-* 🌐 Useful in real-world scenarios
+* 🔥 Useful in real-world scenarios
 
 We believe in the power of open-source collaboration to accelerate AI innovation.
 
@@ -28,3 +28,5 @@ Want to build with us? We welcome contributions!
 **Built with ❤️ for intelligent systems and the art of creation.**
 
 *Fast. Sharp. Intelligent.*
+
+[🌐 Tivra-Yantra-AI↗](https://tivrayantra-ai.github.io/landing-page/)
