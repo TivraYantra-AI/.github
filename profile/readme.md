@@ -1,7 +1,8 @@
 # ⚡️Tivra-Yantra-AI
 
 Welcome to **Tivra-Yantra-AI** — where innovation meets intelligence.
-
+>
+> In Sanskrit
 > **"Tivra"** (तीव्र) means *fast*, *sharp*, or *intense*
 > **"Yantra"** (यंत्र) means *machine* or *instrument*
 
@@ -22,3 +23,8 @@ We believe in the power of open-source collaboration to accelerate AI innovation
 ## Contributing
 
 Want to build with us? We welcome contributions!
+
+##
+**Built with ❤️ for intelligent systems and the art of creation.**
+
+*Fast. Sharp. Intelligent.*
